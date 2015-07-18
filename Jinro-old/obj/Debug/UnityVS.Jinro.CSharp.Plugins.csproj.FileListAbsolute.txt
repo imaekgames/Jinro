@@ -1,0 +1,17 @@
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\NAudio.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\NSpeex.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\Photon3Unity3D.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+D:\Programing Files\Unity\Jinro\Jinro\Temp\UnityVS_bin\Debug\Photon3Unity3D.xml
+D:\Programing Files\Unity\Jinro\Jinro\obj\Debug\UnityVS.Jinro.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\Programing Files\Unity\Jinro\Jinro\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Programing Files\Unity\Jinro\Jinro\obj\Debug\Assembly-CSharp-firstpass.pdb
