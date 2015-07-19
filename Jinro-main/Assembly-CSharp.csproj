@@ -212,6 +212,7 @@
      <Compile Include="Assets\GooglePlayGames\PluginVersion.cs" />
      <Compile Include="Assets\MyGameData\Scripts\Button\ChangeScene.cs" />
      <Compile Include="Assets\MyGameData\Scripts\Debug\SceneNameAttribute.cs" />
+     <Compile Include="Assets\MyGameData\Scripts\Network\RandomJoinToRoom.cs" />
      <Compile Include="Assets\MyGameData\Scripts\Network\TitleSetting.cs" />
      <Compile Include="Assets\MyGameData\Scripts\PhotonVoiceSender.cs" />
      <Compile Include="Assets\MyGameData\Scripts\VisualVoice.cs" />

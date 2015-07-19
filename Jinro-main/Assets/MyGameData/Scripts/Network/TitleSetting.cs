@@ -8,7 +8,7 @@ public class TitleSetting : MonoBehaviour {
 	// Use this for initialization
 	void Start()
 	{
-		PhotonNetwork.ConnectUsingSettings(version);
+		PhotonNetwork.ConnectUsingSettings (version);
 	}
 
 	void OnConnectionFail()
