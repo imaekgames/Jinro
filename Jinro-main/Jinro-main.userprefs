@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyGameData/Scripts/Button/ChangeScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyGameData/Scripts/Network/TitleSetting.cs">
     <Files>
-      <File FileName="Assets/DFVoice/Scripts/Components/UnityNetworkVoiceController.cs" Line="31" Column="1" />
       <File FileName="Assets/MyGameData/Scripts/Button/ChangeScene.cs" Line="9" Column="3" />
+      <File FileName="Assets/MyGameData/Scripts/Network/TitleSetting.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
